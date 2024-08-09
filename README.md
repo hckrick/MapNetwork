@@ -2,6 +2,14 @@
 
 RickScript é uma ferramenta Python interativa projetada para diagnóstico de redes e simulação de ataques DDoS. Ele oferece funcionalidades para análise de rede utilizando Nmap e simulação de ataques com hping3, além de uma interface colorida e divertida.
 
+
+![Captura de tela 2024-08-09 120623](https://github.com/user-attachments/assets/5eb5c78e-56a8-4859-9f3e-ac9dbcc36758)
+
+
+
+
+
+
 ## Funcionalidades
 
 - **Diagnóstico de Rede (Nmap)**: Realize varreduras de rede com diferentes tipos de escaneamento.
